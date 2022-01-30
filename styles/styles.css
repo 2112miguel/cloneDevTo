@@ -1,0 +1,16 @@
+.cardPost{
+    height: 186px;
+    width: 676.266px;
+    padding: 20px;
+    background-color: white;
+}
+
+.imgPost{
+    background-image: url("https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xsfedpmjdloalsc1hqsc.png");
+    background-repeat: no-repeat;
+    background-size: 676.266px 283.266px;
+    display: block;
+    width: 676.266px;
+    height: 273.286px;
+    margin: 0px;  
+}
