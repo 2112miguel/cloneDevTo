@@ -14,3 +14,13 @@
     height: 273.286px;
     margin: 0px;  
 }
+
+.profileImg{
+    
+        background-size: 35px 35px;
+        display: block;
+        width: 35px;
+        height: 35px;
+        margin: 0px;   
+        border-radius: 50%;
+}
