@@ -33,4 +33,10 @@
     width: 60.8125px;
     height: 44.8125px;
     margin: 0px;  
+    -webkit-transform:rotate(355deg);
+    -moz-transform: rotate(355deg);
+    -ms-transform: rotate(355deg);
+    -o-transform: rotate(355deg);
+    transform: rotate(355deg);
+    border-radius: 5px;
 }
